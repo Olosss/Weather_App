@@ -32,6 +32,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationTemporaryUsageDescriptionDictionary</key>
+	<dict>
+	<key>YourPurposeKey</key>
+	<string>The example app requires temporary access to the device precise location</string>
+	</dict>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
